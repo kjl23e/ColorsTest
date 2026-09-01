@@ -2,3 +2,6 @@ Green
 Blue
 
 Red
+Lilac
+Lavender
+Yellow
