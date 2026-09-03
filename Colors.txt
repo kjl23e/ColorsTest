@@ -5,3 +5,4 @@ Red
 Lilac
 Lavender
 Yellow
+Cyan
